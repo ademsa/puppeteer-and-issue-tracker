@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-and-issue-tracker",
+  "version": "0.1.0",
+  "description": "Project that uses Puppeteer to interact with Issue Tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "issue",
+    "tracker"
+  ],
+  "author": "ademsa",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
